@@ -1,4 +1,4 @@
-# nanoFile
+# NanoFiles
 
 # Aplicación para la transmisión de ficheros entre diferentes usuarios
  Se trata de una aplicación de escritorio para Linux, desarrollada en Java, que permite la comunicación Cliente-Servidor con un Directorio en Internet, así como la transmisión de archivos entre pares (Peer-to-Peer) utilizando dicho Directorio como punto de referencia.
